@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=TrdevFK_am4&t=1000s
 
 For more info: https://jalammar.github.io/illustrated-transformer/
 
+Einops tutorial : https://einops.rocks/1-einops-basics/
+
+
 - Data
 - Patches Embeddings
     - CLS Token
