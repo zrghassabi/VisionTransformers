@@ -27,3 +27,8 @@ Einops tutorial : https://einops.rocks/1-einops-basics/
 
 Fine-Tune ViT for Image Classification with 🤗 Transformers
 https://huggingface.co/blog/fine-tune-vit
+
+Transformers in hugging face 
+https://huggingface.co/docs/transformers/v4.19.4/en/model_doc/vit#transformers.ViTFeatureExtractor
+
+
