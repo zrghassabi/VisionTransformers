@@ -25,3 +25,5 @@ Einops tutorial : https://einops.rocks/1-einops-basics/
 - ViT
 
 
+Fine-Tune ViT for Image Classification with 🤗 Transformers
+https://huggingface.co/blog/fine-tune-vit
