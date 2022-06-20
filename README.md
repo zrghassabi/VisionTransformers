@@ -31,4 +31,14 @@ https://huggingface.co/blog/fine-tune-vit
 Transformers in hugging face 
 https://huggingface.co/docs/transformers/v4.19.4/en/model_doc/vit#transformers.ViTFeatureExtractor
 
+How fintune Vision Transformers on costum dataset (CIFAR-10):
+
+performing inference with ViT to illustrate image classification
+
+fine-tuning ViT on CIFAR-10 using HuggingFace's Trainer
+
+fine-tuning ViT on CIFAR-10 using PyTorch Lightning
+
+https://github.com/NielsRogge/Transformers-Tutorials/tree/master/VisionTransformer
+
 
