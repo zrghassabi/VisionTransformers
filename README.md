@@ -46,3 +46,6 @@ fine-tuning ViT on CIFAR-10 using PyTorch Lightning
 https://github.com/NielsRogge/Transformers-Tutorials/tree/master/VisionTransformer
 
 
+for more details about Transformers for segmentation, image calssification, object detection, please see :
+
+https://github.com/NielsRogge/Transformers-Tutorials
